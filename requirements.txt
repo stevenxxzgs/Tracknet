@@ -1,0 +1,14 @@
+numpy==1.22
+opencv_python==4.9.0.80
+parse
+lxml
+scipy
+pycocotools
+matplotlib
+tqdm
+tensorboard
+PyYAML
+torch==2.2.1
+torchvision==0.17.1
+torchaudio==2.2.1
+# 仅在colab中使用
